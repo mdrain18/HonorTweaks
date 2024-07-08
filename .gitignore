@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+*.vsidx
+*.pdb
+*.cache
+
+# Folders
+/source/HonorTweaks/.vs/
+/source/HonorTweaks/bin/
+/source/HonorTweaks/obj/
+/source/HonorTweaks/Properties/
